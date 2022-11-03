@@ -1,0 +1,2 @@
+# Individual_Project
+A term deposit is a cash investment held at a financial institution. The bank has various outreach plans to sell term deposits to their customers  Telephonic marketing campaigns still remain one of the most effective way to reach out to people.  This data set provided client data such as age of the client,  their job type, their marital status, etc.Along with the client data,  it also provided the information of the call such as the duration  of the call, day and month of the call, etc.  Using this data set Data analysis and visualization was done.
